@@ -1,7 +1,16 @@
 title: Ali Jafari # your name (or website title) here
 logo: "/images/logo.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a data analyst and web developer who loves to gain insights 
+  from data and build web applications that solve real-world problems. 
+  I enjoy tackling challenges with fresh perspectives and find joy in
+  sometimes reinventing the wheel. 
   
+  <br><br><br><br><br><br><br><br>
+  Python, Power BI, Excel, SQL, Data analysis, scikit-learn,
+  Data Science, SQL Server, Database, Http, Protocol, Machine Learning, 
+  Text analysis, Web Scraping, problem solving
+  <br><br><br><br><br><br>
   <a href="https://www.linkedin.com/in/ali-jafari-a08386157/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
