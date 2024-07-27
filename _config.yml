@@ -1,10 +1,10 @@
 title: Ali Jafari # your name (or website title) here
 logo: "/images/logo.jpg?raw=false" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
-  I am a data analyst and web developer who loves to gain insights 
+  "I am a data analyst and web developer who loves to gain insights 
   from data and build web applications that solve real-world problems. 
   I enjoy tackling challenges with fresh perspectives and find joy in
-  sometimes reinventing the wheel. 
+  sometimes reinventing the wheel."
 
   
 remote_theme: pages-themes/minimal@v0.2.0
