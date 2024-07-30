@@ -7,9 +7,10 @@
 ### Stepsone.de Job Search Analysing
 
 [stepstone job guess project](/sample_page)
-<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
+
 <img src="images/r1.gif?raw=true" alt="stepstone.de data analysis"/>
 <img src="images/r2.gif?raw=true" alt="stepstone.de data analysis"/>
+<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
