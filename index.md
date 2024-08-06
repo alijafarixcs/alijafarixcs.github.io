@@ -6,7 +6,7 @@
 
 ### Stepsone.de Job Search Analysing
 
-[stepstone job guess project](https://github.com/alijafarixcs/job-guess)
+[stepstone job guess project](https://www.youtube.com/watch?v=SvtAzhJ8bSM)
 
 <img src="images/r1.gif?raw=true" alt="stepstone.de data analysis"/>
 <img src="images/r2.gif?raw=true" alt="stepstone.de data analysis"/>
