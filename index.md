@@ -13,21 +13,21 @@
 <img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mlde1.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mlde2.jpg?raw=true"/>
 
 ---
+[Project 3 Title](http://example.com/)
+<img src="images/mlusa.jpg?raw=true"/>
 
+---
 ### Category Name 22
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](http://github.com/alijafarixcs)
+
 
 ---
 
