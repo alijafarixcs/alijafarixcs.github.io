@@ -9,8 +9,7 @@
 [stepstone job guess project](https://www.youtube.com/watch?v=SvtAzhJ8bSM)
 
 <img src="images/r1.gif?raw=true" alt="stepstone.de data analysis"/>
-<img src="images/r2.gif?raw=true" alt="stepstone.de data analysis"/>
-<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/mlde1.jpg?raw=true"/>
@@ -24,6 +23,11 @@
 <img src="images/mlusa.jpg?raw=true"/>
 
 ---
+---
+<img src="images/r2.gif?raw=true" alt="stepstone.de data analysis"/>
+<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
+---
+
 ### Category Name 22
 
 - [Project 1 Title](http://github.com/alijafarixcs)
