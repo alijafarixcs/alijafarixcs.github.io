@@ -11,15 +11,15 @@
 <img src="images/r1.gif?raw=true" alt="stepstone.de data analysis"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/certificate-ali-jafari.pdf)
 <img src="images/mlde1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/pdf/LebenslaufvonAliJafariHA.pdf)
 <img src="images/mlde2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 4 Title](/pdf/0CourseraMTR8GB2WKMJM_2.pdf.pdf)
 <img src="images/mlusa.jpg?raw=true"/>
 
 ---
