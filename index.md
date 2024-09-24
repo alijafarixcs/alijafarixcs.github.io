@@ -19,7 +19,7 @@
 <img src="images/mlde2.jpg?raw=true"/>
 
 ---
-[Project 4 Title](/pdf/0CourseraMTR8GB2WKMJM_2.pdf.pdf)
+[Project 4 Title](/pdf/0CourseraMTR8GB2WKMJM_2.pdf)
 <img src="images/mlusa.jpg?raw=true"/>
 
 ---
