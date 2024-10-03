@@ -1,5 +1,5 @@
 ## Data Scientist
-<p>   Python, Power BI, Excel, SQL, Data analysis, scikit-learn,
+<p>   C#,Python,ASP.NET, Power BI, Excel, SQL, Data analysis, scikit-learn,
  Data Science, SQL Server, Database, Http, Protocol, Machine Learning, 
   Text analysis, Web Scraping, problem solving</p>
 ---
