@@ -1,43 +1,57 @@
-## Data Scientist
-<p>   Python ,C# ,ASP.NET , Power BI, Excel, SQL, Data analysis, scikit-learn,
- Data Science, SQL Server, Database, Http, Protocol, Machine Learning, 
-  Text analysis, Web Scraping, problem solving</p>
+##  Software Architect , .NET Developer  and Data Scientist
+
+I am proficient in:  
+- **Programming and Tools**: Python, C#, ASP.NET, SQL, Power BI, Excel  
+- **Software Architecture**: Domain-Driven Design (DDD), CQRS, Clean Architecture, Microservices  
+- **Core Skills**: Data Analysis, Machine Learning, Text Analysis, Web Scraping  
+- **Frameworks/Libraries**: Scikit-learn, HTTP Protocols  
+- **Databases**: SQL Server, Relational Databases  
+- **Problem-Solving**: Analytical thinking and solution design  
+
 ---
 
-### Stepsone.de Job Search Analysing
+### Stepstone.de Job Search Analysis
 
-[stepstone job guess project](https://www.youtube.com/watch?v=SvtAzhJ8bSM)
+A project analyzing job search trends on [Stepstone.de](https://www.youtube.com/watch?v=SvtAzhJ8bSM).
 
 <img src="images/r1.gif?raw=true" alt="stepstone.de data analysis"/>
 
 ---
-[Project 2 Title](/pdf/certificate-ali-jafari.pdf)
-<img src="images/mlde1.jpg?raw=true"/>
 
----
-[Project 3 Title](/pdf/LebenslaufvonAliJafariHA.pdf)
-<img src="images/mlde2.jpg?raw=true"/>
-
----
-[Project 4 Title](/pdf/0CourseraMTR8GB2WKMJM_2.pdf)
-<img src="images/mlusa.jpg?raw=true"/>
-
----
----
-<img src="images/r2.gif?raw=true" alt="stepstone.de data analysis"/>
-<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis"/>
----
-
-### Category Name 22
-
-- [Project 1 Title](http://github.com/alijafarixcs)
-
+### Machine Learning Certificate Project
+[View Certificate](pdf/certificate-ali-jafari.pdf)  
+<img src="images/mlde1.jpg?raw=true" alt="Machine Learning certificate project"/>
 
 ---
 
-
-
+### Data Science Portfolio  
+[Download CV](pdf/LebenslaufvonAliJafariHA.pdf)  
+<img src="images/mlde2.jpg?raw=true" alt="Data Science Portfolio"/>
 
 ---
+
+### Coursera Project  
+[View Coursera Certificate](pdf/0CourseraMTR8GB2WKMJM_2.pdf)  
+<img src="images/mlusa.jpg?raw=true" alt="Coursera ML project"/>
+
+---
+
+### Stepstone.de Data Visualizations
+
+<img src="images/r2.gif?raw=true" alt="stepstone.de data analysis visualizations"/>  
+<img src="images/stepstone.jpg?raw=true" alt="stepstone.de data analysis visualizations"/>
+
+---
+
+### Software Architecture and Development Projects
+
+- **ASP.NET and Architecture Projects**:
+  - Architected systems using **DDD, CQRS, Clean Architecture**, and **Microservices** for scalable, maintainable solutions.
+  - Designed robust, enterprise-level applications leveraging **ASP.NET Core**.
+
+- [Project 1: Example Title](http://github.com/alijafarixcs)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attribute -->
