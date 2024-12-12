@@ -1,9 +1,9 @@
 title: Ali Jafari # Your name (or website title)
 logo: "/images/logo.jpg?raw=false" # Your photo (or logo)
 description: > # Your text below (remove <br> elements if unnecessary)
-  A Data Analyst, Scientist, and Software Architect specializing in ASP.NET  
-  Architecting scalable systems using DDD, CQRS, Clean Architecture, and Microservices.  
- 
+  Dusseldorf, Deutschland 
+
+link: <a href="mailto:alijafarixcs@gmail.com">alijafarixcs@gmail.com</a>
 link: <a href="https://github.com/alijafarixcs">View My GitHub Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
