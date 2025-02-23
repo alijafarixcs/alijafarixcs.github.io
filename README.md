@@ -1,7 +1,7 @@
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
-
+<meta name="google-site-verification" content="1DWfsxKo5ftg0asO8o30UguFhL7lhFbufW5cQLTksfU" />
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
 <img src="images/demo.gif?raw=true"/>
