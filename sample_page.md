@@ -1,5 +1,5 @@
 
-<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>Unlocking Insights: Web Scraping Stepstone.de</title><meta name="robots" content=", "/><meta content="Explore the dynamic job market with our comprehensive web scraping and data analysis of Stepstone.de.
+<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="google-site-verification" content="1DWfsxKo5ftg0asO8o30UguFhL7lhFbufW5cQLTksfU" /><meta name="viewport" content="width=device-width"/><title>Unlocking Insights: Web Scraping Stepstone.de</title><meta name="robots" content=", "/><meta content="Explore the dynamic job market with our comprehensive web scraping and data analysis of Stepstone.de.
 
 Get Started
 
