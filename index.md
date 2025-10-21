@@ -6,7 +6,7 @@ I am proficient in:
 - **Core Skills**: Data Analysis, Machine Learning, Text Analysis, Web Scraping  
 - **Frameworks/Libraries**: Scikit-learn, HTTP Protocols  
 - **Databases**: SQL Server, Relational Databases  
-- **Problem-Solving**: Analytical thinking and solution design  
+- **Problem-Solving**: Analytical thinking and solution design  .
 
 ---
 ### About me (my Books) In Amazon
