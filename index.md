@@ -9,7 +9,13 @@ I am proficient in:
 - **Problem-Solving**: Analytical thinking and solution design  
 
 ---
+### About me (my Books) In Amazon
 
+See my HomePage at Amazon [amazon.com](https://www.amazon.com/stores/author/B0DST58YXC).
+
+<a href="https://www.amazon.com/stores/author/B0DST58YXC"><img src="images/books.jpg?raw=true" alt="See my HomePage at [Amazon.com Ali jAFARO](https://www.amazon.com/stores/author/B0DST58YXC)"/></a>
+
+---
 ### Stepstone.de Job Search Analysis
 
 A project analyzing job search trends on [Stepstone.de](https://www.youtube.com/watch?v=SvtAzhJ8bSM).
