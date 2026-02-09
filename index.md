@@ -16,7 +16,14 @@ I am proficient in:
 See my HomePage at Amazon [amazon.com](https://www.amazon.com/stores/author/B0DST58YXC).
 
 <a href="https://www.amazon.com/stores/author/B0DST58YXC"><img src="images/books.jpg?raw=true" alt="See my HomePage at [Amazon.com Ali jAFARO](https://www.amazon.com/stores/author/B0DST58YXC)"/></a>
+---
+### Enterprise AI-Assistant
 
+This AI can be integrated into websites, apps, and different environments to help businesses communicate with users 24/7. on [AI-Assistant](https://www.youtube.com/watch?v=_EK8qEAdzAk).
+
+<img src="images/rai1.gif?raw=true" alt="Enterprise AI-Assistant"/>
+
+---
 ---
 ### Stepstone.de Job Search Analysis
 
