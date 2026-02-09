@@ -24,7 +24,6 @@ This AI can be integrated into websites, apps, and different environments to hel
 <img src="images/rai1.gif?raw=true" alt="Enterprise AI-Assistant"/>
 
 ---
----
 ### Stepstone.de Job Search Analysis
 
 A project analyzing job search trends on [Stepstone.de](https://www.youtube.com/watch?v=SvtAzhJ8bSM).
