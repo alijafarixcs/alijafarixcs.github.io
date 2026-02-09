@@ -3,7 +3,7 @@
 ### AI-focused full-stack developer experienced with LLMs, deep learning, and data science. Strong background in Clean Architecture, microservices, C#, ASP.NET Core, SQL, and cloud-native CI/CD workflows using DevOps.
 
 I am proficient in:  
-- **Programming and Tools**: Python, C#, ASP.NET, SQL, Power BI, Excel  
+- **Programming and Tools**: Python, C#, ASP.NET, SQL, Power BI, Excel,..  
 - **Software Architecture**: Domain-Driven Design (DDD), CQRS, Clean Architecture, Microservices  
 - **Core Skills**: Data Analysis, Machine Learning, Text Analysis, Web Scraping  
 - **Frameworks/Libraries**: Scikit-learn, HTTP Protocols  
