@@ -9,7 +9,13 @@ I am proficient in:
 - **Frameworks/Libraries**: Scikit-learn, HTTP Protocols  
 - **Databases**: SQL Server, Relational Databases  
 - **Problem-Solving**: Analytical thinking and solution design  .
+---
+### About me (my Courses) In Udemy
 
+See my HomePage at Udemy [udemy.com](https://www.udemy.com/course/first-step-into-ai-mastery-llms-prompt-engineering).
+
+<a href="https://www.udemy.com/course/first-step-into-ai-mastery-llms-prompt-engineering/#instructor-1"><img src="images/prompt.jpg?raw=true" alt="See my HomePage at [Udemy.com Ali jAFARO]([https://www.amazon.com/stores/author/B0DST58YXC](https://www.udemy.com/course/first-step-into-ai-mastery-llms-prompt-engineering/#instructor-1))"/></a>
+---
 ---
 ### About me (my Books) In Amazon
 
