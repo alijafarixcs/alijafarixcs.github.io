@@ -74,5 +74,5 @@ A project analyzing job search trends on [Stepstone.de](https://www.youtube.com/
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://t.me/alijafarixcs">Telegram</a></p>
 <!-- Remove above link if you don't want to attribute -->
