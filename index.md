@@ -70,9 +70,9 @@ A project analyzing job search trends on [Stepstone.de](https://www.youtube.com/
   - Architected systems using **DDD, CQRS, Clean Architecture**, and **Microservices** for scalable, maintainable solutions.
   - Designed robust, enterprise-level applications leveraging **ASP.NET Core**.
 
-- [Project 1: Example Title](http://github.com/alijafarixcs)
+- [Telegram](https://t.me/alijafarixcs)
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://t.me/alijafarixcs">Telegram</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">canvana</a></p>
 <!-- Remove above link if you don't want to attribute -->
